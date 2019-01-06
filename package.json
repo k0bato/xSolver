@@ -1,0 +1,28 @@
+{
+  "name": "xsolver-",
+  "version": "0.0.1",
+  "description": "Simple solver for x-captcha.ru",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k0bato/xSolver.git"
+  },
+  "keywords": [
+    "captcha",
+    "recaptcha",
+    "solver",
+    "x-captcha"
+  ],
+  "author": "kobato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k0bato/xSolver/issues"
+  },
+  "homepage": "https://github.com/k0bato/xSolver#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
